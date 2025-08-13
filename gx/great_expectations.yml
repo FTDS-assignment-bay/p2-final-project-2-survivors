@@ -94,7 +94,7 @@ data_docs_sites:
       class_name: DefaultSiteIndexBuilder
 
 anonymous_usage_statistics:
-  data_context_id: 8e64c163-aa07-4370-bcaa-cd57e8f0d5c0
+  data_context_id: b1d9e21b-06c5-46fb-bc22-e99698e9a337
   enabled: true
 fluent_datasources:
   e-commerce-datasources:
