@@ -121,6 +121,8 @@ Open the provided local URL in your browser, then use the left sidebar to switch
 
 - Python
 - Streamlit
+- Matplotlib
+- Tableau
 - TensorFlow/Keras
 - Pandas
 - NumPy
