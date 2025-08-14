@@ -1,0 +1,8 @@
+altair
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+pathlib
+streamlit
